@@ -1,6 +1,6 @@
 {
-    "name": "dart_lesson",
-    "short_name": "dart_lesson",
+    "name": "themoviedb",
+    "short_name": "themoviedb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

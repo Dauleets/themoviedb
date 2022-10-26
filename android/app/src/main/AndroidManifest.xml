@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.dart_lesson">
+    package="com.example.themoviedb">
    <application
-        android:label="dart_lesson"
+        android:label="themoviedb"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

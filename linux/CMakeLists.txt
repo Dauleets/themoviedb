@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(runner LANGUAGES CXX)
 
-set(BINARY_NAME "dart_lesson")
-set(APPLICATION_ID "com.example.dart_lesson")
+set(BINARY_NAME "themoviedb")
+set(APPLICATION_ID "com.example.themoviedb")
 
 cmake_policy(SET CMP0063 NEW)
 

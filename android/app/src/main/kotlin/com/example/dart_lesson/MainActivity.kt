@@ -1,4 +1,4 @@
-package com.example.dart_lesson
+package com.example.themoviedb
 
 import io.flutter.embedding.android.FlutterActivity
 

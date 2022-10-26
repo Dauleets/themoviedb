@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(dart_lesson LANGUAGES CXX)
+project(themoviedb LANGUAGES CXX)
 
-set(BINARY_NAME "dart_lesson")
+set(BINARY_NAME "themoviedb")
 
 cmake_policy(SET CMP0063 NEW)
 

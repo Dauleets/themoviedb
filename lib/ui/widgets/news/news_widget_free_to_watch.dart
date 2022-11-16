@@ -28,10 +28,9 @@ class _NewsWidgetFreeToWatchState extends State<NewsWidgetFreeToWatch> {
               DropdownButton<String>(
                 value: _catrgory,
                 onChanged: (catrgory) {},
-                items: [
-                  const DropdownMenuItem(
-                      value: 'movies', child: Text('Movies')),
-                  const DropdownMenuItem(value: 'tv', child: Text('TV')),
+                items: const [
+                  DropdownMenuItem(value: 'movies', child: Text('Movies')),
+                  DropdownMenuItem(value: 'tv', child: Text('TV')),
                 ],
               ),
             ],

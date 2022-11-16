@@ -1,7 +1,7 @@
-import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:themoviedb/ui/navigation/main_navigation.dart';
 import 'package:themoviedb/ui/theme/app_colors.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 class MyApp extends StatelessWidget {
   static final mainNavigation = MainNavigation();
